@@ -30,3 +30,4 @@ add_lunch_combo cyanogen_bravo-userdebug
 add_lunch_combo cyanogen_bravo-eng
 add_lunch_combo cyanogen_inc-userdebug
 add_lunch_combo cyanogen_inc-eng
+add_lunch_combo cyanogen_openetna-eng
