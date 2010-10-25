@@ -36,10 +36,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
 #
 ifdef CYANOGEN_NIGHTLY
     PRODUCT_PROPERTY_OVERRIDES += \
-        ro.modversion=OpenEtna/CyanogenMod-6-$(shell date +%m%d%Y)-NIGHTLY
+        ro.modversion=OpenEtna/CyanogenMod-6.1-$(shell date +%m%d%Y)-NIGHTLY
 else
     PRODUCT_PROPERTY_OVERRIDES += \
-        ro.modversion=OpenEtna/CyanogenMod-6
+        ro.modversion=OpenEtna/CyanogenMod-6.1
 endif
 
 # Use the audio profile hack
