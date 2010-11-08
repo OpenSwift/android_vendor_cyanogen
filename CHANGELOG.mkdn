@@ -22,10 +22,13 @@ Maintainers:
 * Galaxy S (Vibrant): Scepterr, Wes Garner
 * Legend: Alexander Hofbauer
 * Vision: Cyanogen
+* Geeksphone ONE: arcee
+* Z71 (Boston, G1305, XT502, A60, Blaze, others): arcee
+* Wildfire: Jacob Crawley
 
 Translators:
 ------------
-* German: Matthias Büchner, Alexander Hofbauer, Sebastian K (DerSeppel)
+* German: Matthias Büchner, Alexander Hofbauer, Sebastian K (DerSeppel), Ricco Thiel
 * Italian: Eugenio Ziliotto, Giulio Cervera
 * Japanese: Takuo Kitame
 * French: Sébastien Vaucher, David Girault
@@ -33,6 +36,7 @@ Translators:
 * Russian: Oleg Krikun
 * Portuguese: Eduardo Martins
 * Spanish: PeRiJeY
+
 
 CHANGELOG
 ---------
