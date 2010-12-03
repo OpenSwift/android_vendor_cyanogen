@@ -13,7 +13,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_liberty.mk \
     $(LOCAL_DIR)/cyanogen_vibrant.mk \
     $(LOCAL_DIR)/cyanogen_legend.mk \
-	$(LOCAL_DIR)/cyanogen_eve.mk \
+	$(LOCAL_DIR)/cyanogen_swift.mk \
     $(LOCAL_DIR)/cyanogen_vision.mk \
     $(LOCAL_DIR)/cyanogen_one.mk \
     $(LOCAL_DIR)/cyanogen_z71.mk \
